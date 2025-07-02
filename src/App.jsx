@@ -138,7 +138,7 @@ export default function App() {
   };
 
   return (
-    <div className="min-h-screen flex items-center justify-center bg-gradient-to-r from-purple-400 via-pink-500 to-red-500 p-4">
+    <div className="min-h-screen flex items-center justify-center bg-gradient-to-r from-purple-600 via-pink-500 to-red-500 p-4">
       <div className="bg-white rounded-2xl shadow-2xl max-w-2xl w-full p-8">
         {showScore ? (
           <div className="text-center">
