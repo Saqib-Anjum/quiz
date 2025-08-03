@@ -15,7 +15,7 @@ export default function Dashboard() {
       <div className="flex-1 flex flex-col p-4">
         <Topbar />
 
-        <Stats />
+        {/* <Stats /> */}
 
         <div className="grid grid-cols-2 gap-4 mb-4">
 {/*           <ChartPanel />
